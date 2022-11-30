@@ -1,0 +1,307 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header{
+    background-image: url(1619497240_35-phonoteka_org-p-sinii-fon-dlya-shapki-na-yutub-35.png);
+    height: 150px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+header li{
+    position:relative;
+    top:15px;
+}
+
+header ul{
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+}
+
+a{
+    font-size: 40px;
+    padding: 0 50px 0 50px;
+    color: azure;
+    text-decoration: none; 
+    font-family: cursive;
+    position: relative;
+    right:10px;
+}
+
+header ul a:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+header li{
+    display: inline;
+}
+
+img{
+    position:relative;
+    top:15px;
+    
+}
+
+.globus{
+    position: relative;
+    left: 150px;
+}
+.uk{
+    position: relative;
+    right: 20px;
+}
+.bg{
+    background:url(1621377963_2-phonoteka_org-p-fon-dlya-prezentatsii-po-angliiskomu-yazik-2.jpg);
+    height: 300vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.say{
+    color: black;
+    font-size:4em;
+    font-family:sans-serif;
+    font-weight: 800;
+    position:relative;
+    left:500px;
+    top:130px;
+}
+
+.bg ul{
+    position:relative;
+    left:550px;
+    top:150px;
+    font-size:2em;
+    font-family:sans-serif;
+    font-weight: 100;
+}
+
+.butt{
+    background: url(1612891688_74-p-nezhno-krasnii-fon-odnotonnii-85.jpg);
+    height: 80px;
+    width: 250px;
+    border-radius: 60px;
+    position:relative;
+    top:170px;
+    left:550px;
+}
+.butt a{
+    font-size: 1.6em;
+    font-family: sans-serif;
+    position:relative;
+    top:25px;
+    left:4px;
+}
+
+.butt a:hover{
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+}
+
+.line{
+    background: url(1640442135_6-abrakadabra-fun-p-chernii-fon-odnotonnii-na-ves-ekran-vertik-6.jpg);
+    width: 100%;
+    height: 30px;
+    position:relative;
+    top:250px;
+}
+
+.soderzh p{
+    color: black;
+    font-size:4em;
+    font-family:sans-serif;
+    font-weight: 800;
+    position:relative;
+    left:500px;
+    top:330px;
+}
+
+article{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top:350px;
+    left:40px;
+}
+
+.soderzh2 li{
+    color: black;
+    font-size: 1em;
+    font-family:sans-serif ;
+    position:relative;
+    top:200px;
+    right:190px;
+}
+
+.soderzh2 a{
+    color: black;
+    font-size: 1em;
+    font-family:sans-serif ;
+}
+
+.autent{
+    background: url(1640442135_6-abrakadabra-fun-p-chernii-fon-odnotonnii-na-ves-ekran-vertik-6.jpg);
+    height: 450px;
+    width: 1200px;
+    position:relative;
+    top:650px;
+    left:350px;
+    border-radius: 40px;
+    
+}
+
+.autent p{
+    color: rgb(226, 217, 217);
+    font-size:3em;
+    font-family:sans-serif;
+    font-weight: 300;
+    position:relative;
+    top:30px;
+    left:70px;
+}
+
+.name{
+    background: url(загружено.jpg);
+    height: 75px;
+    width: 300px;
+    border-radius: 40px;
+    position:relative;
+    left:100px;
+    top:100px;
+}
+
+
+.email{
+    background: url(загружено.jpg);
+    height: 75px;
+    width: 300px;
+    border-radius: 40px;
+    position:relative;
+    left:150px;
+    top:100px;
+}
+
+.numb{
+    background-color: azure;
+    height: 75px;
+    width: 350px;
+    border-radius: 40px;
+    position:relative;
+    left:200px;
+    top:100px;
+}
+
+input[type="text"] {
+    height: 75px;
+    width: 200px;
+}
+
+.end input[type="button"]{
+    background-color: #4CAF50; /* Green */
+    border:#4CAF50;
+    border-radius: 20px;
+    height: 80px;
+    width: 250px;
+    position:relative;
+    top:150px;
+    left:450px;
+}
+
+.line2{
+    background: url(1640442135_6-abrakadabra-fun-p-chernii-fon-odnotonnii-na-ves-ekran-vertik-6.jpg);
+    width: 100%;
+    height: 30px;
+    position:relative;
+    top:50px;
+}
+
+[value="Зарегистрироваться"]{
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    font-size: 1.3em;
+}
+
+[value="Зарегистрироваться"]:hover{
+    color: azure;
+}
+
+.anheader{
+    background-image: url(1619497240_35-phonoteka_org-p-sinii-fon-dlya-shapki-na-yutub-35.png);
+    height: 150px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.live{
+    color:black;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 4em;
+    position:relative;
+    top:700px;
+    left: 500px;
+}
+
+.anheader .translate{
+    position:relative;
+    top:50px;
+    left:100px;
+}
+
+.anheader .inst{
+    position:relative;
+    top:50px;
+    left:730px;
+}
+
+.anheader .vk{
+    position:relative;
+    top:50px;
+    left:750px;
+}
+
+.anheader .tg{
+    position:relative;
+    top:50px;
+    left:770px;
+}
+
+.anheader .whatsapp{
+    position:relative;
+    top:50px;
+    left:790px;
+}
+
+.anheader .viber{
+    position:relative;
+    top:50px;
+    left:810px;
+}
+
+[placeholder="   Ваше имя"]{
+    font-size: 1.6em;
+}
+
+[placeholder="   Email"]{
+    font-size: 1.6em;
+}
+
+[placeholder="   +375 (xx) xxx-xx-xx"]{
+    font-size: 1.6em;
+}
